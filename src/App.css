@@ -1,0 +1,9 @@
+@import './components/header/header.css';
+@import './styles/geral.css';
+@import './components/home/home.css';
+@import './components/button/button.css';
+@import './components/about/about.css';
+@import './components/materials/materials.css';
+@import './components/works/works.css';
+@import './components/works/workLIst.css';
+@import './components/footer/footer.css';
