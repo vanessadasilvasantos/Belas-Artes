@@ -2,7 +2,7 @@
   "name": "belasartes",
   "private": true,
   "version": "0.0.0",
-  "homepage": "belasartes/",
+  "homepage": "https://vanessadasilvasantos.github.io/Belas-Artes",
   "type": "module",
   "scripts": {
     "dev": "vite",
