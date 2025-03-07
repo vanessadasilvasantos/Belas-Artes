@@ -6,7 +6,7 @@ import About from './components/about/about';
 import Materials from './components/materials/materials';
 import WorksList from './components/works/worksList';
 import Footer from './components/footer/footer';
-import { BrowserRouter as Router, Routes, Route, useNavigate} from 'react-router';
+import { HashRouter as Router, Routes, Route, useNavigate} from 'react-router';
 import Catalog from './pages/catalog/Catalog';
 import HomeImage from './assets/home.png'
 
